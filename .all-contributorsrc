@@ -1,0 +1,5 @@
+{
+  "projectName": "RustCall",
+  "projectOwner": "miguelraz",
+  "files": ["README.md", "docs/src/index.md"]
+}

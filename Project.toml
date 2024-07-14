@@ -1,0 +1,7 @@
+name = "RustCall"
+uuid = "21f8330c-064f-59a2-a8b1-2ab86cccd9f6"
+authors = ["Miguel Raz <miguelraz@gmail.com> and contributors"]
+version = "0.1.0"
+
+[compat]
+julia = "1.10"
